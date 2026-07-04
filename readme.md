@@ -29,7 +29,7 @@ A simple Python project that demonstrates how to merge multiple PDF files into a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Suresh-Chaudhary-9315/PDF-Merger-Using-Python?utm_source=chatgpt.com
+git clone https://github.com/Suresh-Chaudhary-9315/PDF-Merger-Using-Python
 ```
 
 2. Navigate to the project folder:
